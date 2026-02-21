@@ -90,7 +90,7 @@ nav ul li a:hover {
     text-align: center;
     position: relative;
     padding: 0 20px;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('art_hero_studio_1771701043403.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('assets/art_hero_studio_1771701043403.png');
     background-size: cover;
     background-position: center;
     color: white;
